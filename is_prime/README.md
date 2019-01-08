@@ -1,0 +1,1 @@
+Write a function that, when given an integer, returns true or false determined by whether or not the integer is a prime number
